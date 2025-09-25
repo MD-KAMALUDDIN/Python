@@ -1,0 +1,5 @@
+print("Hello, welcome to python world")  '''this is a multiple line comment in python,
+                                              write what ever you want, there is no issue with the number of lines'''
+                                          """we can also use double codes for multiple lines of comment
+                                                  this is how it works
+                                                              """
