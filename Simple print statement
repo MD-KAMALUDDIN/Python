@@ -1,0 +1,6 @@
+print("Hello World")  #prints the constant string
+print(5)  #prints the constant directly
+x = 10  #store 10 to x variable
+print(x)  #prints the value stored in x
+print(3*7)  #prints the result of product operation
+print("You can see the combination of strings and values", x, 3*7, "without any issue")  #In this you can see, how strings and numbers can be combined.
