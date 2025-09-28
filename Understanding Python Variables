@@ -1,0 +1,5 @@
+my_variable = "Hello World"  #here we stored Hello World string to my_variable
+print(my_variable)  #printed the string in my_variable
+
+my_variable = 123  #updated the value in my_variable
+print(my_variable)  #print the new value stored in my_variable
