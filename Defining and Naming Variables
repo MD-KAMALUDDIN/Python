@@ -1,0 +1,6 @@
+x = 7  #store 7 to 'x' variable
+my_variable = 7  #there can be an '_' in the variable
+_myvariable = 7  #'_' irrespective of position
+print(x,my_variable, _myvariable)  #prints the values stored in x, my_variable, _myvariable
+#7x = 7  #this is an invalid variable, since variable can't start with number[have try by removing '#']
+#x!y = 7  #this is an invalid: contains the prohibited character'!'[have try by removing '#']
