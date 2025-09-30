@@ -1,0 +1,4 @@
+name = "Kamal"  #store 'Kamal' to the variable 'name'
+print("My name is", name)  #print the string and value stored in variable
+age = 19  #store 19 in age variable
+print("I'm", age,"years old")  #print the string and value stored in age variable
