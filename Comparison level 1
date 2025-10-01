@@ -1,0 +1,4 @@
+price_of_toy = 50  #describing the price of toy by variabe assigning method
+money_in_hand = 120  #describes the price in hands by variable assigning method
+can_buy_toy = money_in_hand>= price_of_toy  #comparison operation
+print(can_buy_toy)  #Print the result, which is Ture
