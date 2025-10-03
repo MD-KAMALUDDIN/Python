@@ -1,0 +1,3 @@
+book_pages = 150  #store 150 to the variable book_pages
+is_desired_book = 100<book_pages<200  #comparison 
+print(is_desired_book)  #result should be printed
