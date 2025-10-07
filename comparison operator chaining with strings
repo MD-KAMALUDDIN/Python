@@ -1,0 +1,4 @@
+fruit="apple"  #store apple string to fruit variable
+print(fruit=="apple")  #compare fruit and apple and print the result
+print(fruit=="banana")  #compare fruit and banana and print the result
+print(fruit<"banana")  #comparing fruit and banana[follows alphabatical oerder(a<b)]
