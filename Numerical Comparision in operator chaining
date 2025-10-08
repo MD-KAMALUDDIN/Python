@@ -1,0 +1,5 @@
+number = 5  #store 5 to number variable
+print(number==5)  #compare number with 5
+print(number>3)  #compare number with 3
+print(number<4)  #compare number with 4
+print(number>=5)  #compare number with 5
