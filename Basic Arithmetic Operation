@@ -1,0 +1,10 @@
+add= 5+ 3
+print(add)
+sub= 5-3
+print(sub)
+mult=5*3
+print(mult)
+divi=5/3
+print(divi)
+integer_divi = 5//3
+print(integer_divi)
