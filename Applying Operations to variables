@@ -1,0 +1,8 @@
+apple = 2
+apples_price = 3.5
+total_price = apple*apples_price
+print("total price:", total_price)
+oranges = 3
+orange_price = 4
+total_price += oranges*orange_price
+print("total price:", total_price)
