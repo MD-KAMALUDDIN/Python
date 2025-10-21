@@ -1,0 +1,4 @@
+a = 5
+a_l = "golden delicious"
+a_p = True
+empty_ = None
