@@ -1,0 +1,5 @@
+x = 7
+my_variable = 7
+_my = 7
+# 7x = 7 invalid
+# x!y = 7 invalid 
