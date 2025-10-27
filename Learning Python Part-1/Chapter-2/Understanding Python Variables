@@ -1,0 +1,4 @@
+my_variable = "Hello World"
+print(my_variable)
+my_variable = 123
+print(my_variable)
