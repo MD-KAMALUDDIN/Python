@@ -1,0 +1,4 @@
+name = "Kamal"
+print("the name is", name)
+age = 20 
+print("the person is", age, "years old")
