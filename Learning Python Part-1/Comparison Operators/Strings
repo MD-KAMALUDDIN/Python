@@ -1,0 +1,4 @@
+f = "apple"
+print(f == "apple")
+print(f != "apple")
+print(f < "banana")
