@@ -1,0 +1,9 @@
+a = 2
+ap= 3.5
+t = a*ap
+print(t)
+
+o = 3
+op = 4
+t+= o*op
+print(t)
