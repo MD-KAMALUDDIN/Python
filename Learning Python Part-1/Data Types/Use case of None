@@ -1,0 +1,2 @@
+b = None
+print("basket is None?",b is None)
