@@ -1,0 +1,2 @@
+a = "Golden"
+print(a)
