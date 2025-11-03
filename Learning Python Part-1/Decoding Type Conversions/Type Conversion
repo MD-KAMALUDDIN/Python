@@ -1,0 +1,19 @@
+n_s = "123"
+n_int = int(n_s)
+print(n_int)
+
+n_f = 3.14
+n_int = int(n_f)
+print(n_int)
+
+n = 7
+n_f = float(n)
+print(n_f)
+
+n = 456.3
+n_s = str(n)
+print(n_s)
+
+n = 0
+bool_value = bool(n)
+print(bool_value)
