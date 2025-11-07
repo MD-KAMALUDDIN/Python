@@ -1,0 +1,7 @@
+a = 15
+if a >=18:
+    print("You are eligible to vote.")
+elif a >=16:
+    print("Slightly too young to vote.")
+else:
+    print("You are much too young to vote.")
