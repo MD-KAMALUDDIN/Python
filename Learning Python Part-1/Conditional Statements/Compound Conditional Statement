@@ -1,0 +1,6 @@
+a = 40
+v = False
+if a>=18 and v:
+    print("You are eligible to vote")
+else:
+    print("You are not eligible to vote")
