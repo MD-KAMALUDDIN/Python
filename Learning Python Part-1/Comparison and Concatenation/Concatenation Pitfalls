@@ -1,0 +1,5 @@
+python = "Python"
+#print(python+3)
+print(python + str(3))
+python+=str(3)
+print(python)
