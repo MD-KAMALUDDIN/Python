@@ -1,0 +1,14 @@
+f = ['apple','banana','cherry']
+f.append('manago')
+print(f)
+f.insert(1,'pear')
+print(f)
+f.remove('banana')
+print(f)
+del f[0]
+print(f)
+f[0]='mango'
+print(f)
+f[2]='orange'
+print(f)
+print('kiwi' in f)
