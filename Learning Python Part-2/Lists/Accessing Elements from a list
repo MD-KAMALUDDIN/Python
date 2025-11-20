@@ -1,0 +1,8 @@
+f = ['apple','banana','cherry']
+print(f[0])
+print(f[1])
+print(f[2])
+print(f[-1])
+print(f[-2])
+print(f[0:2])
+print(f[1:2])
